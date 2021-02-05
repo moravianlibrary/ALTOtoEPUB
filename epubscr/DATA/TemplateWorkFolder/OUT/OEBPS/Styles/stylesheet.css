@@ -1,0 +1,154 @@
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+.calibre10 {
+    height: 178px;
+    vertical-align: baseline;
+    width: 446px
+    }
+.calibre11 {
+    display: block;
+    text-align: center;
+    text-indent: 1em;
+    margin: 0
+    }
+.calibre12 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0
+    }
+.calibre13 {
+    display: block;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 1em 0 0
+    }
+.calibre14 {
+    height: 642px;
+    vertical-align: baseline;
+    width: 391px
+    }
+.calibre15 {
+    display: block;
+    text-align: right;
+    text-indent: 1em;
+    margin: 0
+    }
+.calibre16 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 422px
+    }
+.calibre17 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 424px
+    }
+.calibre18 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 420px
+    }
+.calibre19 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 419px
+    }
+.calibre2 {
+    height: 641px;
+    vertical-align: baseline;
+    width: 365px
+    }
+.calibre20 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 410px
+    }
+.calibre21 {
+    height: 4px;
+    vertical-align: baseline;
+    width: 497px
+    }
+.calibre22 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 416px
+    }
+.calibre23 {
+    height: 679px;
+    vertical-align: baseline;
+    width: 426px
+    }
+.calibre24 {
+    height: 680px;
+    vertical-align: baseline;
+    width: 421px
+    }
+.calibre25 {
+    height: 288px;
+    vertical-align: baseline;
+    width: 339px
+    }
+.calibre26 {
+    font-family: monospace
+    }
+.calibre3 {
+    height: 642px;
+    vertical-align: baseline;
+    width: 365px
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    height: 171px;
+    vertical-align: baseline;
+    width: 112px
+    }
+.calibre6 {
+    height: 642px;
+    vertical-align: baseline;
+    width: 419px
+    }
+.calibre7 {
+    height: 642px;
+    vertical-align: baseline;
+    width: 431px
+    }
+.calibre8 {
+    height: 350px;
+    vertical-align: baseline;
+    width: 247px
+    }
+.calibre9 {
+    display: block;
+    text-align: justify;
+    text-indent: 1em;
+    margin: 0
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    display: block;
+    margin: 0
+    }
+.italics {
+    font-style: italic
+    }	
