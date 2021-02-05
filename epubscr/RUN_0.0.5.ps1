@@ -3,14 +3,13 @@
 ##########################
 param
 (
-    [string]$UUID = "8db80bf0-3f20-11e4-bc3a-005056827e51"
-    #[string]$UUID = "NO UUID"
+    [string]$UUID = "NO UUID"
 )
 
 
 $pathToINFolder = "C:/temp/IN/"+$UUID+"/"
 $pathToOutFolder = "C:/temp/OUT/"+$UUID+"/"
-$PathToScripts = "E:/Epb-script/"
+$PathToScripts = "C:/temp/epubscr/"
 $UUID = "uuid:"+$UUID
 
 #Remove-Item $pathToINFolder*.xml
