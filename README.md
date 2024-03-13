@@ -1,6 +1,6 @@
 # ALTOtoEPUB
 
-Install Poweshel 7.1 or later(WrapEpub_x.x.x.ps1 does not work properly with older versions and your .epub will be unreadable by some programs and readers) 
+Install Powershell 7.1 or later (WrapEpub_x.x.x.ps1 does not work properly with older versions and your .epub will be unreadable by some programs and readers) 
 
 on Windows  
 https://github.com/PowerShell/PowerShell/releases/latest
